@@ -1,6 +1,10 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1532939198640-a7f0da02b62f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+}
+
 .center{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   
 }
 
